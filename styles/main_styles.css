@@ -14,6 +14,7 @@
   --primary-color: #B0A695;
   --secondary-color: #776B5D;
   --auxiliary: #F3EEEA;
+  --auxiliary-transparency: #f3eeeaa5;
   --black: #040D12;
   --white: #fff;
 }
@@ -39,7 +40,20 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--auxiliary);
+    background: url(../assets/imgs/background/beige_bg.webp) fixed no-repeat;
+    background-size: cover;
+}
+
+.container {
+  max-width: 90%;
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: var(--auxiliary-transparency);
+  backdrop-filter: blur(3px);
+  box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.45);
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.45);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.45);
 }
 
 header {
@@ -57,7 +71,7 @@ header {
  /* SLIDESHOW */
  .mySlides {
     display: none;
-}
+} 
 
 .slideshow-container {
     max-width: 1000px;
@@ -139,7 +153,7 @@ header {
     grid-row-gap: 10px;
 
     margin: 10px;
-    padding: 15px ; /* top right bottom left */
+    padding: 15px ; 
     border-radius: 15px;
     background-color: var(--secondary-color);
 }
@@ -237,6 +251,33 @@ ul > li:hover {
         margin: 5px;
       }
 
+    }
+  }
+}
+
+@media screen and (min-width: 900px) {
+  body {
+    background: url(../assets/imgs/background/beige_bg.webp) fixed no-repeat;
+    background-size: cover;
+  }
+  
+  .container {
+    max-width: 60%;
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: var(--auxiliary-transparency);
+    backdrop-filter: blur(5px);
+  }
+
+  .header {
+    justify-content: space-around;
+  }
+
+  .detailed-paragraph {  
+    .parrafo {
+      font-size: 2vw;
+      margin: 5px;
     }
   }
 }
