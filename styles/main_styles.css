@@ -156,6 +156,10 @@ header {
     padding: 15px ; 
     border-radius: 15px;
     background-color: var(--secondary-color);
+
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.45) inset;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.45) inset;
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.45) inset;
 }
 
 img {
@@ -163,6 +167,10 @@ img {
     border-radius: 15px;
     object-fit: cover;
     aspect-ratio: 1/1;
+
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.45);
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.45);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.45);
 }
 
 footer {
