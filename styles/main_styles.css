@@ -35,6 +35,10 @@
     color: var(--secondary-color);
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -336,4 +340,14 @@ ul > li:hover {
 .fullscreen-hidden {
   visibility: hidden;
   opacity: 0;
+}
+
+.surprise-box {
+  height: 85vh;
+  width: 90%;
+  
+  .surprise-title {
+    margin: auto;
+    text-align: center;
+  }
 }
