@@ -289,3 +289,51 @@ ul > li:hover {
     }
   }
 }
+
+/* Estilo para la vista de pantalla completa */
+#fullscreen-view {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.3s;
+}
+
+#fullscreen-view img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 10px;
+}
+
+#fullscreen-view button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: transparent;
+  border: none;
+  font-size: 2rem;
+  color: white;
+  cursor: pointer;
+}
+
+#fullscreen-view button:hover {
+  color: red;
+}
+
+.fullscreen-visible {
+  visibility: visible;
+  opacity: 1;
+}
+
+.fullscreen-hidden {
+  visibility: hidden;
+  opacity: 0;
+}
