@@ -1,0 +1,84 @@
+{
+    "memories": [
+      {
+        "name": "06-feb-2023",
+        "description": "Esta es nuestra primera foto juntos, recuerdo haberme acercado de repente a la chica que había visto un día antes y con la que fue tan divertido interactuar. Simplemente me nació tomarme una foto y jamás me habría imaginado todos los tatuajes que has creado desde ese entonces.",
+        "imagePath": "assets/imgs/surprise-cards-img/06-feb-2023.webp"
+      },
+      {
+        "name": "26-mar-2023",
+        "description": "Estas fotos representan una de las experiencias más bonitas que he tenido con cualquier persona. Disfruté el camino, la compañía, las vistas, la planificación y el tiempo. Verte disfrutar la playa, y saber que estábamos juntos ahí me llenaba de mucha alegría, principalmente tomando en cuenta que no me hubiese atrevido a realizar esa salida si no hubiese sido por ti.",
+        "imagePath": "assets/imgs/surprise-cards-img/26-mar-2023.webp"
+      },
+      {
+        "name": "29-may-2023",
+        "description": "No recuerdo exactamente cómo se dio todo, solo sé que es nuestra sesión de fotos más aesthetic y que disfruté mucho el tiempo que pasamos juntos. Me encanta cómo se ven las fotos y cómo se siente el recuerdo. Lo mejor de todo es que disfrutaste y a la vez construimos un recuerdo que llevo siempre conmigo.",
+        "imagePath": "assets/imgs/surprise-cards-img/29-may-2023.webp"
+      },
+      {
+        "name": "21-sept-2023",
+        "description": "Ese día decidí hacerte sentir tu momento medias de abejita, yo ni siquiera me enteraba de esas fechas que son un poco más modernas, pero que se acostumbran a celebrar, sin embargo, cuando me enteré me moví bastante para lograr conseguir ese detalle que te haga ver lo especial que eres para mí y que te dejara un lindo recuerdo para cuando no pudiéramos estar juntos. Me encantó el proceso de planificar todo, pensarlo a ver si te gustaría, pero lo que más disfruté fue verte feliz y presumiendo tu regalo.",
+        "imagePath": "assets/imgs/surprise-cards-img/21-sept-2023.webp"
+      },
+      {
+        "name": "24-nov-2023",
+        "description": "Recuerdo los momentos en que me motivaste a salir de la zona de confort que teníamos en residencia y decidimos asistir a casi todas las charlas que estaba dando el ITLA. A veces no sabía de qué iban a tratar, solo sabía que tú irías y eran planes sencillos pero diferentes a los habituales, me gustó porque tú hiciste que yo me moviera a un entorno menos cerrado como era residencia.",
+        "imagePath": "assets/imgs/surprise-cards-img/24-nov-2023.webp"
+      },
+      {
+        "name": "08-dic-2023",
+        "description": "Miento si digo que no es una de mis fotos favoritas de nosotros, me encanta la pasión, el amor, el deseo que se siente al ver esa foto; me encanta que al verlo siento que hay dos personas que se aman. También recuerdo que ese día te estuve acompañando para grabar (o tomar fotos) para una tarea, eran esos tiempos en los que ambos nos involucramos en lo del otro para poder estar juntos la mayor parte del tiempo.",
+        "imagePath": "assets/imgs/surprise-cards-img/08-dic-2023.webp"
+      },
+      {
+        "name": "31-dic-2023",
+        "description": "La fecha de esta foto lo dice todo, es el cierre de un año y la antesala de otro. Esa foto puede describir lo que ha sido nuestra relación, subidas y bajadas, experiencias distintas y, en mi caso, estar lejos de casa pero aún así sentirme en mi hogar. Esa foto (que realmente sale de un video) es la descripción de nuestro casi 1er año como pareja, decidimos cerrar juntos el año y recibir el otro de la misma forma, fue especial y significativo.",
+        "imagePath": "assets/imgs/surprise-cards-img/31-dic-2023.webp"
+      },
+      {
+        "name": "07-ago-2024",
+        "description": "Todas las actividades que realizamos tenían un toque especial, pero esta en particular fue una de las más especiales. La primera vez que iba a ver una película en plan de cita, la primera vez que decidimos salir teniendo en cuenta que haríamos una cita. La mayor parte del tiempo la pasamos en desacuerdo, sin embargo, no deja de ser un momento importante en nuestra relación.",
+        "imagePath": "assets/imgs/surprise-cards-img/07-ago-2024.webp"
+      },
+      {
+        "name": "18-nov-2024",
+        "description": "Esto es lo más atípico que veremos, ambos juntos después de un tiempo en el ITLA, cada uno en su mundo, pero pendiente al del otro. Por mi parte fue la excusa perfecta para pasar tiempo cerca de ti y verte disfrutando eso que tanto te gustaba y te entusiasmaba. Estabas como colaboradora en un evento que siempre quisiste participar y esa misma semana vivirías una de las experiencias que más puede haber influido en tu vida últimamente; participar en Proyecto 24 y colaborar con muchas personas de tu área en un ambiente de relativa presión, y lo manejaste a la perfección.",
+        "imagePath": "assets/imgs/surprise-cards-img/18-nov-2024.webp"
+      },
+      {
+        "name": "05-feb-2023",
+        "description": "Esta foto siempre va a ser especial y no deja de ser una de mis favoritas, a pesar de que no es de ambos, esta foto es una de las primeras que te tomé y por la que intercambiamos números, pues te la iba a mandar, en ese momento no lo sabía, pero estaba a punto de iniciar una hermosa etapa de mi vida con una persona que me llevaría a buscar límites, querer crecer y, hoy en día, me ha hecho pensar como una persona adulta. Ahí estás tú, con tu sonrisa, tu cabello recogido y tus ojitos cerrados, sin saber que esa foto sería el inicio de una historia que aún no termina.",
+        "imagePath": "assets/imgs/surprise-cards-img/05-feb-2023.webp"
+      },
+      {
+        "name": "21-feb-2023",
+        "description": "Cuando digo que me sacaste de mi zona de confort es literal, esta foto es de la primera vez que decidimos ir al Olé juntos y no para verlo como una diligencia, sino más como un paseo, una oportunidad de salir de lo tradicional de residencia y aprovechar a ver mercancía en los pasillos de un supermercado, pero que tan divertido nos parecía.",
+        "imagePath": "assets/imgs/surprise-cards-img/21-feb-2023.webp"
+      },
+      {
+        "name": "02-jun-2023",
+        "description": "Aunque decimos que no habíamos tenido citas hasta el momento del cine, si nos detenemos a apreciar los procesos, no los resultados, nuestras citas iniciaron desde antes, desde que nos poníamos de acuerdo para cocinar algo juntos y luego sentarnos fuera a comer mientras hablábamos sobre la vida. En ese momento no lo veíamos como una cita, pero era un momento significativo para la relación. No podré ir al ITLA sin pasar frente a la residencia y recordar esos momentos de risas, conversaciones estúpidas, momentos de reflexión y consejos, besos a escondidas y momentos de amor que vivimos.",
+        "imagePath": "assets/imgs/surprise-cards-img/02-jun-2023.webp"
+      },
+      {
+        "name": "27-oct-2023",
+        "description": "Esta foto se merece un GRAN GRACIAS. Pese a lo tedioso que sería y lo cansoso que era, decidiste acompañarme a mi casa y estuviste en la mejor de las disposiciones, todavía hay ocasiones en las que voy solo y me gustaría tener tu hombro para recostarme y tenerte a ti para conversar. Esta foto representó uno de los mayores sacrificios que has hecho por mí como pareja y por eso lo agradezco bastante.",
+        "imagePath": "assets/imgs/surprise-cards-img/27-oct-2023.webp"
+      },
+      {
+        "name": "15-dic-2023",
+        "description": "Esta quizá sea la foto que menos recuerdos positivos traiga, una noche tensa, con enojos, limitaciones económicas y de tiempo y dos personas que decidieron no ceder. La puse aquí porque es un recuerdo que nos debemos poner en la cabeza para marcar qué tanto puede empañarse una buena salida y actividad cuando nadie se detiene a entender al otro. Es un caso que aún deberíamos tratar para intentar resolver.",
+        "imagePath": "assets/imgs/surprise-cards-img/15-dic-2023.webp"
+      },
+      {
+        "name": "29-mar-2024",
+        "description": "Esta foto de pareja es una entre doscientas que salieron raras, pero no nos culpo, fue un día difícil, ¿Por qué la incluí? Necesitaba una excusa para poner una foto de ese día, me pareció que andabas demasiado bonita y no pude dejarla fuera (para que veas que soy tu fan #1).",
+        "imagePath": "assets/imgs/surprise-cards-img/29-mar-2024.webp"
+      },
+      {
+        "name": "31-ago-2024",
+        "description": "Esta foto es la más egoísta que añadí, ¿qué quiero decir con esto? Es una foto donde solo estás tú, siendo tú y ya, pero para mí simboliza una sola cosa, siempre seré tu fan #1, siempre estaré ahí esperando tomarte esa foto en la que te salga esa hermosa sonrisa y así, para mí y solo para mí, podré guardarme una foto que no me permita olvidar la hermosa sonrisa de la cual sin elegirlo o buscarlo me enamoré. Esa sonrisa que me hace sentir que todo está bien, que todo está en su lugar y que todo está en calma.",
+        "imagePath": "assets/imgs/surprise-cards-img/31-ago-2024.webp"
+      }
+    ]
+  }
